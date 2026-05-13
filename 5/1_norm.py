@@ -10,3 +10,6 @@ for n in range(1, 100):
     r = int(bin_n, 2)
     if 120 <= r <= 140:
         print(n, r)
+
+# 31
+
